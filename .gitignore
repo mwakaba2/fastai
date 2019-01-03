@@ -142,3 +142,4 @@ docs_src/fastai
 release-*.log
 
 kaggle_submissions/
+*.tgz
